@@ -1,5 +1,5 @@
 ---
-title: Cosmétique : Chargé d'étude statistiques
+title: Chargé d'étude statistiques
 summary: Chargé d'étude statistique dans le domain cosmétique
 tags:
   - NLP
