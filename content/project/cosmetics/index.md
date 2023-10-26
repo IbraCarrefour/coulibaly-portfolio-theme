@@ -1,6 +1,6 @@
 ---
-title: Cosmetics Semantic Search
-summary: Write about your project here...
+title: Cosmétique : Chargé d'étude statistiques
+summary: Chargé d'étude statistique dans le domain cosmétique
 tags:
   - NLP
 date: 2022-01-01
